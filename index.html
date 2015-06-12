@@ -20,7 +20,9 @@ layout: default
 						<li>
 							<p><strong>{{ post.date | date: "%Y-%m-%d" }}</strong></p>
 							{{ post.excerpt | truncatewords: 50 }}
+							{% if post.content.size > post.excerpt.size %}
 							<p><a href="{{ post.url }}">Läs mer...</a></p>
+							{% endif %}
 						</li>
 						{% endfor %}
 					</ul>
