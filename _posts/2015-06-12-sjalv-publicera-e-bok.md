@@ -15,7 +15,7 @@ Börja inte tänka på publicering innan du har skrivit klart boken. Ändra allt
 Jag är ingen mästare i marknadsföring, men jag tycker det verkar vettigt att göra en extra ansträngning vad gäller bokens omslag. Det är det enda du har för att kommunicera med möjliga läsare i listorna där du publicerar e-boken. Jag valde att starta en designtävling på 99designs.com, vilket fungerade över förväntan. Jag kunde välja mellan ett stort antal designförslag och sedan gå vidare och förfina de som jag tyckte bäst om. Var tydlig från början vad du vill och ge mycket feedback för att styra designprocessen rätt. Tänk på att du bara behöver en bild till framsidan, inte ett helt bokomslag med rygg, fram- och baksida, såvida du inte ska publicera din bok på papper också.
 
 ### Steg 3 - Tilldela boken en identitet
-De flesta distributörer kommer att be om din boks unika identitet, ISBN (http://sv.wikipedia.org/wiki/ISBN). Du kan enkelt och gratis be om ett eller flera (ifall du planerar att publicera flera böcker) ISBN från [Kungliga Biblioteket här](http://www.kb.se/isbn-centralen/isbn/ansokan-forlag-utgivare/)
+De flesta distributörer kommer att be om din boks unika identitet, [ISBN](http://sv.wikipedia.org/wiki/ISBN). Du kan enkelt och gratis be om ett eller flera (ifall du planerar att publicera flera böcker) ISBN från [Kungliga Biblioteket här](http://www.kb.se/isbn-centralen/isbn/ansokan-forlag-utgivare/)
 
 ### Steg 4 - Välj verktyg
 Om du vill nå så många läsare som möjligt på olika plattformar är det standardformatet [ePub](http://en.wikipedia.org/wiki/EPUB) som gäller för din e-bok. Ett undantag är Amazon Kindle som använder ett eget format. Om du vill nå en publik på den plattformen så har jag tyvärr inga tips. Formatet ePub passar för böcker med flödande text som anpassar sig efter olika skärmstorlekar. Apple uppmuntrar ofta till att använda deras verktyg iBook Author, men den stödjer inte ePub och passar bättre till att skapa bildintensiva böcker som du bara kan sälja i iTunes. Jag valde istället Apples verktyg Pages som kan exportera dokument till formatet ePub. Här gick jag på den första minan. Det gick jättebra att göra en e-bok i den senaste versionen av ePub, version 3. Det är den bästa versionen för att publicera i iTunes och Google Play. Det visade sig dock att ePub 3 inte stöds av de svenska biblioteken och jag blev tvungen att göra om e-boken från början i ett annat vertyg där man kan välja ePub 2. Det var inte lätt att hitta ett verktyg som stödjer den gamla versionen. Jag hittade till slut [Jutoh](http://www.jutoh.com/) som har ett ganska plottrigt gränssnitt och svårbegripliga inställningar, men som åtminstone stödjer ePub 2. Om man har siktet inställt på både de kommersiella aktörerna och biblioteken, är det förmodligen vettigt att välja ett verktyg som Jutoh på en gång. Annars skulle jag välja ett modernare och mer lättarbetat verktyg som Pages.
@@ -24,10 +24,15 @@ Om du vill nå så många läsare som möjligt på olika plattformar är det sta
 Det finns en fördel med att hålla det enkelt. Ju mer du lägger till avancerad layout, ju mer kommer du att upptäcka att det kanske inte funkar på alla plattformar. Det finns mallar för e-böcker, men jag märkte att jag var tvungen att lägga ned mycket tid på att anpassa dem enligt mitt tycke, så jag började från början istället. Enkelt uttryckt skapar du boken så här:
 
 - Lägg omslagsbilden på första sidan
+
 - Lägg till en sidbrytning för copyrightsidan
+
 - Lägg till en sidbrytning för första kapitlet
+
 - Lägg till den flödande texten för kapitlet
+
 - Lägg till en sidbrytning för nästa kapitel
+
 - Upprepa steg 4 och 5 tills du är klar
 
 Nu kan du gå igenom e-boken en miljard gånger och se till att texten flödar som du vill. Varje e-bok därute har sin stil vad gäller till exempel nytt stycke, indrag eller inte, och hur dialog delas upp. Du kan kolla upp e-böcker som du tycker om och se hur de har formatterat texten. När du är klar exporterar du resultatet till en ePub-fil. Kolla in din ePub-fil på så många typer av enheter som du har möjlighet till och notera det som inte ser bra ut. Ändra e-boken i ditt verktyg och verifiera igen på enheterna. Upprepa tills det ser bra ut.
@@ -43,8 +48,13 @@ Nu hänger allt på dig. Om ingen känner till din e-bok, kommer ingen att köpa
 
 ### Ett sista ord på vägen
 Okej, vad är min slutsats efter att ha publicerat min e-bok själv? Här är några tankar:
+
 - Om man inte lyckats fånga något förlags intresse, finns det en möjlighet att själv publicera sitt verk e-bok till en blygsam kostnad.
+
 - De flesta tjänster jag känner till där du kan publicera din e-bok, låter dig behålla rättigheterna till ditt verk.
+
 - Det finns en anledning att förlag finns fortfarande, även om jag tror att den kommer att förändras. Det är svårt för en självpublicerare att matcha de marknadsföringsmuskler som framför allt de stora förlagen har. Jag tror att förlagen kommer att gå samma väg som skivbolagen och bli marknadsföringsgiganter.
+
 - Det var lättare att själv skapa och publicera en e-bok än jag trodde. Om man jämför det med de ledtider (mäts i år) som finns hos de traditionella förlagen går det väldigt snabbt att publicera själv.
+
 - Jag har ännu inte hört talas om någon författare som gått från självpublicerare till toppsäljande stjärna. Det kanske bara är en tidsfråga? Kanske blir det du?
