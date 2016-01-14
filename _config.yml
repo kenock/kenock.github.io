@@ -2,3 +2,5 @@ name: "ocklund.se"
 author: "Kenneth Ocklund"
 description: "Personlig hemsida om och av Kenneth Ocklund."
 timezone: Europe/Stockholm
+gems:
+  - jekyll-sitemap
