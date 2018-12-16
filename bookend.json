@@ -8,23 +8,23 @@
   "components": [
     {
       "type": "heading",
-      "text": "Contact"
+      "text": "Kontakt"
     },
     {
       "type": "small",
-      "title": "View my profile",
+      "title": "Se min profil",
       "url": "https://linkedin.com/in/ocklund/",
       "image": "assets/linkedin.png"
     },
     {
       "type": "small",
-      "title": "Read my tweets",
+      "title": "L&auml;s mina tweets",
       "url": "https://twitter.com/ocklund",
       "image": "assets/twitter.png"
     },
     {
       "type": "small",
-      "title": "Follow my flow",
+      "title": "F&ouml;lj mitt fl&ouml;de",
       "url": "https://instagram.com/ocklund/",
       "image": "assets/instagram.png"
     }
