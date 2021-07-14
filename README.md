@@ -1,6 +1,6 @@
 # kenock.github.io
 
-An AMP powered personal home page: https://www.ocklund.com
+An AMP-powered personal home page: https://www.ocklund.com
 
 ## Run locally
 
