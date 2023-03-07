@@ -3,11 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>ocklund.com</title>
-    <meta name="description" content="Official homepage of Kenneth Ocklund">
+    <title>ocklund.com - Contact</title>
+    <meta name="description" content="Contacting Kenneth Ocklund">
     <link rel="shortcut icon" href="./favicon.ico">
-    <link rel="canonical" href="https://www.ocklund.com/index.html">
+    <link rel="canonical" href="https://www.ocklund.com/contact.html">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
     <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
     <style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
     <noscript><style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -51,13 +52,26 @@
     <main>
       <hgroup>
         <h1><a href="./index.html">ocklund.com</a></h1>
-        <h2>Official homepage</h2>
+        <h2>Contact</h2>
       </hgroup>
-      <p>Hi there! I'm Kenneth Ocklund and this is my homepage.</p>
-      <p>I write code and fiction. If you like to know more, I got a link for you right here: <a href="./about.html">About</a></p>
-      <p>I'm the author of the books "Shivas tredje öga" ("Shiva's Third Eye", in Swedish) and "Kalis fjärde hand" ("Kali's Fourth Hand", in Swedish). Right now I'm working on my first book in English: "Rock Hopper". Check them out here: <a href="./books.html">Books</a></p>
-      <p>If I would like to contact me, this is where I would start: <a href="./contact.html">Contact</a>. No pressure.</p>
-      <p>Now we know our <a href="./about.html">A</a> <a href="./books.html">B</a> <a href="./contact.html">C</a>:s. Not bad.</p>
+      <p>You can reach me by sending me a message here:</p>
+      <ul>
+        <li><a href="https://twitter.com/ocklund" target="_blank">Twitter</a></li>
+        <li><a href="https://mastodon.social/@ocklund" target="_blank">Mastodon</a></li>
+        <li><a href="https://www.linkedin.com/in/ocklund/" target="_blank">LinkedIn</a></li>
+      </ul>
+      <p>Or, if you prefer, you can send a message directly to my email address by using the form below.</p>
+      <form action="https://getform.io/f/35b75022-8969-488f-9835-81c418f0b308" method="POST">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your name here" required>
+        <label for="email">Email address</label>
+        <input type="email" id="email" name="email" placeholder="Your email address here" required>
+        <small>I'll never share your email with anyone else.</small>
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Your message here" required></textarea>
+        <input type="hidden" name="_gotcha">
+        <button type="submit">Submit</button>
+      </form>
     </main>
     <footer>
       <small>&copy; 2023 Kenneth Ocklund.<small>
